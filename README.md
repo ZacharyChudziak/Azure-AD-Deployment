@@ -58,6 +58,12 @@ This guide demonstrates the implementation of on-premises Active Directory withi
 <p align="center">
   <img src="https://github.com/ZacharyChudziak/Azure-AD-Deployment/assets/154548436/7d826f54-07f2-4d9d-9047-dedc634dd902"
  height="80%" width="80%"/> </p>
+ <p>
+  Go through the Wizard and Configure the Domain in a "NEW FOREST", choose your domain name it can be anything, for this example I used "CCPractical.com". Continue through with default settings and install.
+</p>
+<p align="center">
+  <img src="https://github.com/ZacharyChudziak/Azure-AD-Deployment/assets/154548436/4d4aaf25-d573-4629-871e-3c95fb295de3"
+ height="80%" width="80%"/> </p>
  
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
