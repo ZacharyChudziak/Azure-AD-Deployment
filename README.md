@@ -20,7 +20,7 @@ This guide demonstrates the implementation of on-premises Active Directory withi
 <h2>High-Level Deployment and Configuration Steps</h2>
 <p align="center">
   <img src="https://github.com/ZacharyChudziak/Azure-AD-Deployment/assets/154548436/6480663b-7c38-4711-b238-e43d79c46164"
- height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ height="80%" width="80%"/>
 - Step 1
 - Step 2
 - Step 3
