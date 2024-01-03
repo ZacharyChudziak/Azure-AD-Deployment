@@ -44,14 +44,13 @@ This guide demonstrates the implementation of on-premises Active Directory withi
 
 <h2>Installing Active Directory on the Windows Server VM</h2>
 <p>
-  
+  Now we are going to install Active Directory, In Windows Server 2022 click "Manage" then choose "Add Roles and Features". Continue through the Wizard with default settings until we reach "Server Roles", Select "Active Directory Domain Services" and continue with default settings and install.
 </p>
 <p align="center">
   <img src="https://github.com/ZacharyChudziak/Azure-AD-Deployment/assets/154548436/1e0f9f2e-06a5-4eda-a74c-c002574765b8"
  height="80%" width="80%"/> </p>
 <p align="center">
-  <img src=[AD-INADC](https://github.com/ZacharyChudziak/Azure-AD-Deployment/assets/154548436/42804719-5df4-4b06-a189-c71f09bfc883)
-""
+  <img src="https://github.com/ZacharyChudziak/Azure-AD-Deployment/assets/154548436/42804719-5df4-4b06-a189-c71f09bfc883"
  height="80%" width="80%"/> </p>
 
 <p>
