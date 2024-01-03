@@ -103,7 +103,7 @@ This guide demonstrates the implementation of on-premises Active Directory withi
   <img src="https://github.com/ZacharyChudziak/Azure-AD-Deployment/assets/154548436/65544521-721c-438b-909e-5a2c6e3c1917"
  height="80%" width="80%"/> </p>
    <p>
-  Next we need to add the Client PC to the "Domain". For this right click the start menu and choose "System". In the "System" page click "Rename this PC Advanced", next choose "Rename this Computer or change its Domain". Next add it to the "Domain" we created "CCPractical.com". The computer will need to restart and we will need to reconnect using "CCPractical.com\username" which we created earlier.
+  Remote Desktop in to the Client PC and add the Client PC to the "Domain". For this right click the start menu and choose "System". In the "System" page click "Rename this PC Advanced", next choose "Rename this Computer or change its Domain". Next add it to the "Domain" we created "CCPractical.com". The computer will need to restart and we will need to reconnect using "CCPractical.com\username" which we created earlier.
 </p>
 <p align="center">
   <img src="https://github.com/ZacharyChudziak/Azure-AD-Deployment/assets/154548436/d269516f-4a1d-4db8-8252-f7cf8fc3ab88"
@@ -122,7 +122,7 @@ height="80%" width="80%"/> </p>
 <img src="https://github.com/ZacharyChudziak/Azure-AD-Deployment/assets/154548436/a974b619-8998-4332-b40d-3e234045b0c1"
 height="80%" width="80%"/> </p> 
 <p>
-  Open up the "System" menu again by right clicking start a clicking "System", Next in the left side menu click on "Remote Desktop" turn Remote Desktop on. Next under "User Accounts" click "Select Users that can Remotely access this PC" and add "Domain Users" then click check names and then click ok.
+  Open up the "System" menu again by right clicking start and clicking "System", Next in the left side menu click on "Remote Desktop" turn Remote Desktop on. Next under "User Accounts" click "Select Users that can Remotely access this PC" and add "Domain Users" then click check names and then click ok.
 </p>
 <p align="center">
 <img src="https://github.com/ZacharyChudziak/Azure-AD-Deployment/assets/154548436/00e4f5ac-868e-4c70-aafb-82a6d921634b"
