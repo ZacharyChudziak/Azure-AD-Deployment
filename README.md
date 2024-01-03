@@ -70,7 +70,7 @@ This guide demonstrates the implementation of on-premises Active Directory withi
 
  <h2>Setting up the Client PC on the Domain</h2>
   <p>
-  Next we need to setup the Client PC to be on the Domain of the Server VM. In Azure, go to "Virtual Machines", Click on the "Client VM" and go to "Networking Settings". Click on the "Network Interface" and in the left side menu choose "DNS Servers" click Custom and using the "Windows Server" private IP add it.
+  Next we need to setup the Client PC to be on the Domain of the Server VM. In Azure, go to "Virtual Machines", Click on the "Client VM" and go to "Networking Settings". Click on the "Network Interface" and in the left side menu choose "DNS Servers" click Custom and using the "Windows Server" private IP add it. Restart the VM so it can obtain its new "DNS".
 </p>
 <p align="center">
   <img src="https://github.com/ZacharyChudziak/Azure-AD-Deployment/assets/154548436/65544521-721c-438b-909e-5a2c6e3c1917"
