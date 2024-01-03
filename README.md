@@ -80,6 +80,17 @@ This guide demonstrates the implementation of on-premises Active Directory withi
  <p align="center">
   <img src="https://github.com/ZacharyChudziak/Azure-AD-Deployment/assets/154548436/4e337a36-a4f0-4320-8b69-cfc60649d8be"
  height="80%" width="80%"/> </p>
+  <p>
+  Next we are going to create a user to make as an Admin to connect to the client PC, Double click the new "Organizational Unit" created and right click and click new>user. 
+</p>
+<p align="center">
+  <img src="https://github.com/ZacharyChudziak/Azure-AD-Deployment/assets/154548436/ba76a486-4350-47d0-81e2-212b146cfc50"
+ height="80%" width="80%"/> </p>  <p>
+  After creating the new user, right click the user made and click properties. Then click "Member Of" and click add. Enter the group "Domain Admins" and click check names and click ok.
+</p>
+<p align="center">
+  <img src="https://github.com/ZacharyChudziak/Azure-AD-Deployment/assets/154548436/3c65fa8c-2fff-4af4-a9ba-259fcd7e7542"
+ height="80%" width="80%"/> </p>
  
  <h2>Setting up the Client PC on the Domain</h2>
   <p>
