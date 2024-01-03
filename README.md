@@ -24,10 +24,16 @@ This guide demonstrates the implementation of on-premises Active Directory withi
 <p align="center">
   <img src="https://github.com/ZacharyChudziak/Azure-AD-Deployment/assets/154548436/6480663b-7c38-4711-b238-e43d79c46164"
  height="80%" width="80%"/> </p>
-- Step 1
-- Step 2
-- Step 3
-- Step 4
+ <p>
+  Next create a new Virtual Machine but this time choosing Windows 10. Make sure to choose the resource group that was created in the previous step, except now with this Virtual Machine go to network settings and make sure the new VM is connected to the same Virtual Network (VNET) as the Server VM.
+</p>
+<p align="center">
+  <img src="https://github.com/ZacharyChudziak/Azure-AD-Deployment/assets/154548436/73e77eeb-2ced-46a4-baf3-01c6b17d52ca"
+ height="80%" width="80%"/> </p>
+ <p align="center">
+  <img src="https://github.com/ZacharyChudziak/Azure-AD-Deployment/assets/154548436/0ae50245-cbaa-4b39-b643-2b37ffc69939"
+ height="80%" width="80%"/> </p>
+
 
 
 <h2>Deployment and Configuration Steps</h2>
