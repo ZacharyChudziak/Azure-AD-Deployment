@@ -33,6 +33,12 @@ This guide demonstrates the implementation of on-premises Active Directory withi
  <p align="center">
   <img src="https://github.com/ZacharyChudziak/Azure-AD-Deployment/assets/154548436/0ae50245-cbaa-4b39-b643-2b37ffc69939"
  height="80%" width="80%"/> </p>
+  <p>
+  Next we are going to change the Windows Server IP address from Dynamic to Static so that the IP never changes and the client can always stay connected. For this we are going to go to the Virtual Machine in Azure choose the Windows Server VM and go to networking settings. Click the Network Interface and then in the left side menu choose IP Configurations. Here is where we will set the Server to Static.
+</p>
+<p align="center">
+  <img src="https://github.com/ZacharyChudziak/Azure-AD-Deployment/assets/154548436/d69c8e38-b53a-4ce5-8e84-b8c3502b8a7a"
+ height="80%" width="80%"/> </p>
 
 
 
