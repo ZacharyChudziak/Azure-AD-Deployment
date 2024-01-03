@@ -87,5 +87,6 @@ height="80%" width="80%"/> </p>
  <p align="center">
   <img src="https://github.com/ZacharyChudziak/Azure-AD-Deployment/assets/154548436/88b60d11-0a88-4968-8847-9f849a547c21"
 height="80%" width="80%"/> </p>
+<h2>Creating Users and an Admin User to connect to the Client VM</h2>
 
 <br />
