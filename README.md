@@ -18,11 +18,12 @@ This guide demonstrates the implementation of on-premises Active Directory withi
 - Windows 10 (21H2)
 
 <h2>High-Level Deployment and Configuration Steps</h2>
-
+<p align="center">
 - Step 1
 - Step 2
 - Step 3
 - Step 4
+</p>
 
 <h2>Deployment and Configuration Steps</h2>
 
