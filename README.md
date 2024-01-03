@@ -52,15 +52,13 @@ This guide demonstrates the implementation of on-premises Active Directory withi
 <p align="center">
   <img src="https://github.com/ZacharyChudziak/Azure-AD-Deployment/assets/154548436/42804719-5df4-4b06-a189-c71f09bfc883"
  height="80%" width="80%"/> </p>
-
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  Next we need to finish promoting the Windows Server VM to a "Domain Controller". In Server Manager a notification will have popped up where the "Flag" is click that and continue finishing the post deployment.
 </p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
+<p align="center">
+  <img src="https://github.com/ZacharyChudziak/Azure-AD-Deployment/assets/154548436/7d826f54-07f2-4d9d-9047-dedc634dd902"
+ height="80%" width="80%"/> </p>
+ 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
