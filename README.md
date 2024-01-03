@@ -17,6 +17,9 @@ This guide demonstrates the implementation of on-premises Active Directory withi
 - Windows Server 2022
 - Windows 10 (21H2)
 
+- <h2>Prerequisites</h2>
+- Understanding how to use RDP (Remote Desktop Protocol)
+
 <h2>Creating the Virtual Machines</h2>
 <p>
   Create a new Virtual Machine in azure choosing Windows Server 2022. For the purpose of this example I used 2 Virtual CPUs, and 16 gig memory as seen below. Make sure to create a resource group at time of making the Virtual Machine for this purpose mine is named "AD-Practical".
@@ -117,11 +120,15 @@ height="80%" width="80%"/> </p>
 </p>
 <p align="center">
 <img src="https://github.com/ZacharyChudziak/Azure-AD-Deployment/assets/154548436/a974b619-8998-4332-b40d-3e234045b0c1"
-height="80%" width="80%"/> </p> <p>
+height="80%" width="80%"/> </p> 
+<p>
   Open up the "System" menu again by right clicking start a clicking "System", Next in the left side menu click on "Remote Desktop" turn Remote Desktop on. Next under "User Accounts" click "Select Users that can Remotely access this PC" and add "Domain Users" then click check names and then click ok.
 </p>
 <p align="center">
 <img src="https://github.com/ZacharyChudziak/Azure-AD-Deployment/assets/154548436/00e4f5ac-868e-4c70-aafb-82a6d921634b"
 height="80%" width="80%"/> </p>
+<p>
+  Now all users created in future will be able to connect to the Client PC using RDP.
+</p>
 
 <br />
