@@ -111,6 +111,11 @@ height="80%" width="80%"/> </p>
  <p align="center">
   <img src="https://github.com/ZacharyChudziak/Azure-AD-Deployment/assets/154548436/88b60d11-0a88-4968-8847-9f849a547c21"
 height="80%" width="80%"/> </p>
-<h2>Creating Users and an Admin User to connect to the Client VM</h2>
+<h2>Connecting as Admin to allow RDP for Domain Users</h2>
+ <p>
+  Open up RDP (Remote Desktop Protocol) and connect to the Client PC as the Admin User created in a previous step.
+</p>
+<img src="https://github.com/ZacharyChudziak/Azure-AD-Deployment/assets/154548436/a974b619-8998-4332-b40d-3e234045b0c1"
+height="80%" width="80%"/> </p>
 
 <br />
