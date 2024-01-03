@@ -19,7 +19,7 @@ This guide demonstrates the implementation of on-premises Active Directory withi
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  Create a new Virtual Machine in azure choosing Windows Server 2022. For the purpose of this example I used 2 Virtual CPUs, and 16 gig memory as seen below. Make sure to create a resource group at time of making the Virtual Machine for this purpose mine is named "AD-Practical".
 </p>
 <p align="center">
   <img src="https://github.com/ZacharyChudziak/Azure-AD-Deployment/assets/154548436/6480663b-7c38-4711-b238-e43d79c46164"
