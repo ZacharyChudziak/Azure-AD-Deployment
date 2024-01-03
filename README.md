@@ -44,7 +44,7 @@ This guide demonstrates the implementation of on-premises Active Directory withi
 
 <h2>Installing Active Directory on the Windows Server VM</h2>
 <p>
-  Now we are going to install Active Directory, In Windows Server 2022 click "Manage" then choose "Add Roles and Features". Continue through the Wizard with default settings until we reach "Server Roles", Select "Active Directory Domain Services" and continue with default settings and install.
+  Connect to the VM using RDP (Remote Desktop Protocol) and then install Active Directory, In Windows Server 2022 click "Manage" then choose "Add Roles and Features". Continue through the Wizard with default settings until we reach "Server Roles", Select "Active Directory Domain Services" and continue with default settings and install.
 </p>
 <p align="center">
   <img src="https://github.com/ZacharyChudziak/Azure-AD-Deployment/assets/154548436/1e0f9f2e-06a5-4eda-a74c-c002574765b8"
@@ -100,7 +100,7 @@ This guide demonstrates the implementation of on-premises Active Directory withi
   <img src="https://github.com/ZacharyChudziak/Azure-AD-Deployment/assets/154548436/65544521-721c-438b-909e-5a2c6e3c1917"
  height="80%" width="80%"/> </p>
    <p>
-  Next we need to add the Client PC to the "Domain". For this right click the start menu and choose "System". In the "System" page click "Rename this PC Advanced", next choose "Rename this Computer or change its Domain". Next add it to the "Domain" we created "CCPractical.com". The computer will need to restart and we will need to reconnect using "CCPractical.com\username" however in the next steps we are going to create an "Admin User" for this case.
+  Next we need to add the Client PC to the "Domain". For this right click the start menu and choose "System". In the "System" page click "Rename this PC Advanced", next choose "Rename this Computer or change its Domain". Next add it to the "Domain" we created "CCPractical.com". The computer will need to restart and we will need to reconnect using "CCPractical.com\username" which we created earlier.
 </p>
 <p align="center">
   <img src="https://github.com/ZacharyChudziak/Azure-AD-Deployment/assets/154548436/d269516f-4a1d-4db8-8252-f7cf8fc3ab88"
