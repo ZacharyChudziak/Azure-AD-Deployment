@@ -3,7 +3,7 @@
 </p>
 
 <h1>On-premises Active Directory Deployed in the Cloud (Azure)</h1>
-This guide demonstrates the implementation of on-premises Active Directory within Azure Virtual Machines, as well as showcasing setting up new users to connect to the client PC.<br />
+This guide demonstrates the implementation of on-premises Active Directory within Azure Virtual Machines, as well as showcasing creating an Admin User to allow future users to be able to connect VIA RDP.<br />
 
 
 <h2>Environments and Technologies Used</h2>
