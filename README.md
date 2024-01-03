@@ -121,7 +121,7 @@ height="80%" width="80%"/> </p> <p>
   Open up the "System" menu again by right clicking start a clicking "System", Next in the left side menu click on "Remote Desktop" turn Remote Desktop on. Next under "User Accounts" click "Select Users that can Remotely access this PC" and add "Domain Users" then click check names and then click ok.
 </p>
 <p align="center">
-<img src="https://github.com/ZacharyChudziak/Azure-AD-Deployment/assets/154548436/a974b619-8998-4332-b40d-3e234045b0c1"
+<img src="https://github.com/ZacharyChudziak/Azure-AD-Deployment/assets/154548436/00e4f5ac-868e-4c70-aafb-82a6d921634b"
 height="80%" width="80%"/> </p>
 
 <br />
