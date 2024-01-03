@@ -72,6 +72,12 @@ This guide demonstrates the implementation of on-premises Active Directory withi
   Open up Active Directory Users and Computers by clikcing start menu and searching for it. After opening up ADUC click on the domain that was created previously in this case it will be "CCPractical.com". From there we are going to create a new organizational unit right click and create new and choose "Organizational Unit" and name it "_ACTIVEADMINS".
 </p>
 <p align="center">
+  <img src="https://github.com/ZacharyChudziak/Azure-AD-Deployment/assets/154548436/313b2eec-c5f1-4018-9c5a-2e85d83e1fd3"
+ height="80%" width="80%"/> </p>
+ <p align="center">
+  <img src="https://github.com/ZacharyChudziak/Azure-AD-Deployment/assets/154548436/be7e43a8-077a-405c-ae8f-2f3148160040"
+ height="80%" width="80%"/> </p>
+ <p align="center">
   <img src="https://github.com/ZacharyChudziak/Azure-AD-Deployment/assets/154548436/4e337a36-a4f0-4320-8b69-cfc60649d8be"
  height="80%" width="80%"/> </p>
  
